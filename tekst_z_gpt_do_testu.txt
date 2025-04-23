@@ -1,0 +1,7 @@
+Rust jest fantastyczny.
+To jest przykład tekstu testowego.
+RUST działa szybko i bezpiecznie.
+Niektóre linie zawierają słowo rust.
+A inne nie zawierają go wcale.
+Ten język programowania to Rust!
+Zobaczymy czy znajdziesz rust w tym pliku.
